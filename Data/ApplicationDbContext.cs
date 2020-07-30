@@ -17,5 +17,7 @@ namespace progectGym.Data
             IOptions<OperationalStoreOptions> operationalStoreOptions) : base(options, operationalStoreOptions)
         {
         }
+
+        public DbSet<Transaction> Transactions { get; set; }
     }
 }

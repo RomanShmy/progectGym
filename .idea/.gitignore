@@ -1,0 +1,5 @@
+# Datasource local storage ignored files
+/.idea.progectGym.dir/.idea/dataSources/
+/.idea.progectGym.dir/.idea/dataSources.local.xml
+# Editor-based HTTP Client requests
+/.idea.progectGym.dir/.idea/httpRequests/
